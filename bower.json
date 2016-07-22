@@ -1,0 +1,11 @@
+{
+  "name": "babel",
+  "main": "browser.js",
+  "license": "MIT",
+  "keywords": [
+    "babel",
+    "javascript",
+    "browser",
+    "library"
+  ]
+}
